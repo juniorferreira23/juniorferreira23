@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div style="display: flex; flex-position: row">
-  <img style=" height:150px " src="https://github-readme-stats.vercel.app/api?username=juniorferreira23&show_icons=true&theme=radical"/>
-  <img style=" height:150px " src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorferreira23&layout=compact&theme=radical"/>
+  <img style=" height:170px " src="https://github-readme-stats.vercel.app/api?username=juniorferreira23&show_icons=true&theme=radical"/>
+  <img style=" height:170px " src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorferreira23&layout=compact&theme=radical"/>
 </div>
 </br>
 <div style="display: inline_block;">

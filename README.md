@@ -1,6 +1,6 @@
 ## Hi, I’m Junior Ferreira
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Firebase <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+- 🌱 I’m currently learning Firebase <img style="width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 
 
 <!---

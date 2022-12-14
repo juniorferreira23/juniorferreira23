@@ -1,5 +1,5 @@
 ## Hi, I’m Junior Ferreira
-- 👀 I’m interested in Front-end Development
+- 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Nodejs <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 

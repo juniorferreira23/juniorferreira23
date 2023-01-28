@@ -1,6 +1,7 @@
 ## Hi, I’m Junior Ferreira
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning Nodejs <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+- 🌱 I’m currently learning React <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 
 
 <!---
@@ -24,6 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="40px" heigth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+  <img width="40px" heigth="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 </br>
 <div style="display: inline_block;">

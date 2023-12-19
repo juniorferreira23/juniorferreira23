@@ -1,6 +1,6 @@
 ## Hi, I’m Junior Ferreira
-- 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning React <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+- 👀 I’m interested in Full-Stack Development, but currently I work with RPA
+- 🌱 I’m currently learning React <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> and RPA with Python
 
 
 

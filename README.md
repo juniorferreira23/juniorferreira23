@@ -1,5 +1,5 @@
-## Junior Ferreira - Graduando em Ciência da computação
-- 👀 Atualmente atuando como desenvolvedor RPA
+## Junior Ferreira
+- 👀 Atualmente atuando como desenvolvedor RPA e graduando em Ciência da Computação
 - 🌱 Estudando Frameworks e Ferramentas RPA como UIPath e Botcity, já no lado fullstack estudando frameworks como Nextjs e Spring boot
 
 
